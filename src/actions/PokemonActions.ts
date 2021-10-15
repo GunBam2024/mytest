@@ -1,3 +1,5 @@
+// 외부에 정보를 가져오고 데이터를 가공해준다.
+
 import axios from "axios";
 import { Dispatch } from "redux";
 import {

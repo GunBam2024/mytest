@@ -1,3 +1,5 @@
+// 말그대로 타입을 지정해주고 export 를 활용하여 사용할 객체들을 사용할수 잇게 만든다.
+
 export const POKEMON_SUCCESS = "POKEMON_SUCCESS";
 export const POKEMON_FAIL = "POKEMON_FAIL";
 

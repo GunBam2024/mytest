@@ -1,3 +1,5 @@
+// Store에서 만든 정보로 Provider를 사용하여 정보를 대입해준다.
+
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
